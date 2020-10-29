@@ -1,0 +1,1 @@
+$(document).ready(function(){$(window).scroll(function(){1<=$(window).scrollTop()?$(".navbar").addClass("fixed-top"):$(".navbar").removeClass("fixed-top")})});

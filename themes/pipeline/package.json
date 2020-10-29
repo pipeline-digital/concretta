@@ -1,0 +1,30 @@
+{
+  "name": "siteteste",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[Dapenas um sitte teste\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"\"\u001b["
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://joaogoya@bitbucket.org/joaogoya/siteteste.git"
+  },
+  "author": "joao goya",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/joaogoya/siteteste#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-concat-css": "^0.3.2",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-cssmin": "^2.2.0",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-less": "^1.4.1",
+    "grunt-contrib-uglify": "^3.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "jit-grunt": "^0.10.0"
+  },
+  "dependencies": {
+    "imagemin-mozjpeg": "^6.0.0"
+  }
+}
